@@ -10,3 +10,5 @@ Feel free to reuse any of the content in this repository, it's here to help your
 
 ### Heads up! All markdown files are formatted using Discord formatting standards.
 Underlining will not be previewed through standard markdown previews such as Github.
+
+To paste into Discord, you'll need to click "code" on each markdown file to copy the original Markdown formatting.
